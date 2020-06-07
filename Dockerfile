@@ -1,7 +1,6 @@
 FROM node:alpine
 
 COPY first.js .
-COPY second.js .
 
 EXPOSE 8080
 
